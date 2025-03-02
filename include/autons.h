@@ -1,0 +1,14 @@
+void testauto();
+void testLateral();
+void red5plus1alliancefirst();
+void monkey();
+void bluepos5();
+void blue3plus1qual();
+void bluesawp();
+void skillz();
+void armtestload();
+void skill50();
+void monkey2();
+void blue5plus1alliancefirst();
+void red3plus1qual();
+void redpos5();
